@@ -1,4 +1,4 @@
-# ShadeX Server
+# ShadesX Server
 
 Backend API for the ShadeX Crypto Application.
 
