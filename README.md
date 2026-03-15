@@ -1,6 +1,6 @@
 # ShadesX: Full-Stack Crypto Application 🚀
 
-Welcome to the **ShadeX** project, a modern and high-performance cryptocurrency tracking and trading ecosystem. This repository contains both the mobile frontend and the supporting backend server.
+Welcome to the **ShadesX** project, a modern and high-performance cryptocurrency tracking and trading ecosystem. This repository contains both the mobile frontend and the supporting backend server.
 
 ## Project Structure
 
