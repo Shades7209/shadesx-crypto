@@ -1,4 +1,4 @@
-# ShadeX Crypto App 👋
+# ShadesX Crypto App 👋
 
 A modern, high-performance cryptocurrency tracking and trading application built with React Native and Expo.
 
