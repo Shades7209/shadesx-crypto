@@ -5,12 +5,7 @@ const getChart = async (req, res) => {
         const { coin, days } = req.body;
 
 
-        let interval = "1"; // default 1 min
-        if (days == 7) interval = "60";      // hourly
-        if (days == 30) interval = "240";    // 4h
-        if (days >= 90) interval = "D";
 
-        // daily
 
 
 
