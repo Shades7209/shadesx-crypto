@@ -1,8 +1,7 @@
 const express = require('express');
-const userModel = require("./model");
-const ImageModel = require("./model");
+
 const app = express();
-const multer = require("multer");
+
 
 const routes = require("./routes");
 const cookieParser = require("cookie-parser");
